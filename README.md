@@ -1,6 +1,6 @@
 # What The Merge
 
-What the merge is (for now) a Firefox add-on that adds a button to GitHub's PR interface that directly sends the user to the mergebot dashboard of the corresponding PR, so that you can know exactly *what* is going on with *the merge* procedure.
+What the merge is a Chrome/Firefox add-on that adds a button to GitHub's PR interface that directly sends the user to the mergebot dashboard of the corresponding PR, so that you can know exactly *what* is going on with *the merge* procedure.
 
 ## Todo
 
