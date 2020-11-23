@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "What The Merge",
-    "version": "1.0.0",
+    "version": "1.0.1",
 
     "description": "Adds a button to GitHub's Pull Request UI for certain Odoo repositories (odoo/enterprise/upgrade) that redirects the user to the mergebot dashboard of the corresponding PR.",
     "icons": {
@@ -17,5 +17,11 @@
             ],
             "js": ["wtm.js"]
         }
-    ]
+    ],
+
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "{c0e5c915-a6f6-470f-906f-bc23b9e15bab}"
+        }
+    }
 }
